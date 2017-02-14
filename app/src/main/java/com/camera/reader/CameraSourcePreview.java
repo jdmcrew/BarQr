@@ -14,7 +14,7 @@ import com.google.android.gms.vision.CameraSource;
 import java.io.IOException;
 
 /**
- * Created by German on 14/02/2017.
+ * Created by German on 14/02/2017
  */
 
 public class CameraSourcePreview extends ViewGroup {
